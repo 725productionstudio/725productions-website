@@ -5,3 +5,9 @@
   font-size: 48px;
   white-space: nowrap;
 }
+
+
+
+.project-card h3 {
+  color: #ffffff;
+}
