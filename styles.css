@@ -62,9 +62,9 @@
 
 /* Refine Selected Projects cards */
 .project-grid {
-   gap: 28px;    margin-top: 140px;
+   gap: 28px;    margin-top: 180px;
 }
 
 .project-card {
-    padding: 12px !important;
+    padding: 10px !important;
 }
