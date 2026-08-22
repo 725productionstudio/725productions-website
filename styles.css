@@ -11,3 +11,8 @@
 .project-card h3 {
   color: #ffffff;
 }
+
+
+.project-card {
+  justify-content: flex-start;
+}
