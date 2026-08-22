@@ -84,3 +84,8 @@ margin-right: auto;}
   padding-top: 20px !important;
   padding-bottom: 30px !important;
 }
+
+/* Keep Industry Inquiries card comfortably inside section */
+.contact-card {
+  margin-right: 20px !important;
+}
