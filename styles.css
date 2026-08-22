@@ -69,3 +69,12 @@ margin-right: auto;}
 .project-card {
     padding: 10px !important;
 }
+/* Tighten Let's Connect section */
+.contact.section.dark {
+  padding-top: 45px !important;
+  padding-bottom: 35px !important;
+}
+
+.contact {
+  gap: 30px !important;
+}
