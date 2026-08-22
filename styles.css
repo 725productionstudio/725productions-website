@@ -58,3 +58,11 @@
 .vision-images {
   margin-top: 0 !important;
 }
+/* Refine Selected Projects cards */
+.project-grid {
+  gap: 20px;
+}
+
+.project-card {
+  padding: 24px !important;
+}
